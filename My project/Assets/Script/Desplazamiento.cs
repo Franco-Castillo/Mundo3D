@@ -10,7 +10,7 @@ public class Desplazamiento : MonoBehaviour
 
 {
 
-CharacterController characterController;
+    CharacterController characterController;
 
     public float velocidad_caminar=6.0f;
 
@@ -62,7 +62,7 @@ CharacterController characterController;
 
             }
 
-            
+
 
         }
 
